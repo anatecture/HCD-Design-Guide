@@ -1,4 +1,5 @@
-*.idlk
+.bundle
+.cache
 .DS_Store
-*/.DS_Store
-*.pdf
+.sass-cache
+build/

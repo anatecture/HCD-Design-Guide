@@ -1,0 +1,116 @@
+h2 {
+  color: #0071bc;
+}
+
+h3 {
+  color: #0071bc;
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+}
+
+h4 {
+  color: #0071bc;
+}
+
+.guide-section__title {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+  color: #212121;
+}
+
+.guide-references__title {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+  color: #0071bc;
+}
+
+.guide-casestudy__title {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+  color: #212121;
+}
+
+.guide-footnotes {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+  font-size: 14px;
+}
+
+.guide-gray-box {
+  padding: 0 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background: #f1f1f1;
+}
+
+.guide-blue-box {
+  padding: 0 1.5rem;
+  margin: 0;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background: #e1f3f8;
+  margin: 3.5rem 0 0 -10.5rem;
+  max-width: 66ch;
+}
+
+.guide-blue-box-illustration {
+  padding: 0 1.5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background: #e1f3f8;
+  max-width: 66ch;
+}
+
+.guide-blue-box img {
+  margin-right: 1.5rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.circle {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  border-radius: 50%;
+  background-color: #fee685;
+  text-align: center;
+}
+
+@media print {
+  aside,
+  footer,
+  form …,
+  header {
+    display: none;
+  }
+
+.noprint {
+    display: none;
+  }
+}
+
+///////////////////image and text interaction styles////////////////
+.center_text {
+  align-self: center;
+}
+
+.bubbles_right {
+  display: inline;
+  width: 30%;
+  float: right;
+  padding-left: 2.5%;
+  shape-outside: circle();
+}
+
+.bubbles_left {
+  display: inline;
+  width: 30%;
+  float: left;
+  padding-right: 2.5%;
+  shape-outside: circle();
+}
+
+.right_text {
+  text-align: right;
+}
