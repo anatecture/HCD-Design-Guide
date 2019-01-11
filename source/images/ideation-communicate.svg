@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103.47 102.95"><defs><style>.cls-1{isolation:isolate;}.cls-2{fill:#c8e3ed;stroke:#1b8ece;stroke-miterlimit:10;}.cls-2,.cls-3{mix-blend-mode:multiply;}.cls-4{fill:#c8e2ec;}.cls-5{fill:#178ece;}</style></defs><title>ideation-communicate</title><g class="cls-1"><g id="Layer_1" data-name="Layer 1"><polygon class="cls-2" points="3.88 99.57 3.88 34.93 35.62 3.18 100.64 3.18 100.64 71.09 67.63 100.63 3.88 99.57"/><g class="cls-3"><polygon class="cls-4" points="38.03 67.41 37.74 8.41 96.93 67.43 38.03 67.41"/><path class="cls-5" d="M38,9,96.33,67.18l-58,0L38,9M37.49,7.8l.3,59.86,59.75,0L37.49,7.8Z"/></g><g class="cls-3"><polygon class="cls-4" points="38.64 7.04 97.54 6.88 98 65.88 38.64 7.04"/><path class="cls-5" d="M97.29,7.13l.46,58.15-58.5-58,58-.16m.5-.5L38,6.79l60.22,59.7L97.79,6.63Z"/></g><g class="cls-3"><polygon class="cls-4" points="7.81 68.69 64.79 68.7 36.34 97.55 7.81 68.69"/><path class="cls-5" d="M8.41,68.94H64.19L36.35,97.2,8.41,68.94m-1.2-.5L36.35,97.91l29-29.46Z"/></g><g class="cls-3"><polygon class="cls-4" points="6.68 98.25 6.88 69.18 35.7 98.61 6.68 98.25"/><path class="cls-5" d="M7.12,69.79l28,28.56L6.93,98l.19-28.22m-.49-1.22L6.43,98.5l29.87.36L6.63,68.57Z"/></g><g class="cls-3"><polygon class="cls-4" points="35.48 7.84 35.55 36.86 6.48 37.08 35.48 7.84"/><path class="cls-5" d="M35.23,8.44l.07,28.17-28.22.22L35.23,8.44m.5-1.21L5.88,37.34l29.92-.23L35.73,7.23Z"/></g><g class="cls-3"><polygon class="cls-4" points="6.41 38.23 35.99 37.99 36.05 66.57 6.64 66.64 6.41 38.23"/><path class="cls-5" d="M35.74,38.25l.06,28.07-28.92.07L6.66,38.48l29.08-.23m.5-.51L6.15,38l.24,28.91,29.91-.07-.06-29.08Z"/></g><g class="cls-3"><polygon class="cls-4" points="38.22 97.52 67.12 68.59 96.8 69.04 66.88 97.76 38.22 97.52"/><path class="cls-5" d="M67.22,68.84l29,.44L66.78,97.51l-28-.23,28.4-28.44m-.21-.5L37.62,97.77,67,98,97.41,68.8,67,68.34Z"/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 91.4 90.9" style="enable-background:new 0 0 91.4 90.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C8E3ED;stroke:#1B8ECE;stroke-miterlimit:10;}
+	.st1{fill:#C8E2EC;}
+	.st2{fill:#178ECE;}
+</style>
+<title>ideation-communicate</title>
+<g>
+	<g id="Layer_1_1_">
+		<polygon class="st0" points="3.9,87.6 3.9,31.4 31.5,3.7 88.1,3.7 88.1,62.8 59.4,88.6 		"/>
+		<g>
+			<polygon class="st1" points="33.6,59.6 33.4,8.3 84.9,59.7 			"/>
+			<path class="st2" d="M33.6,8.8l50.8,50.7H33.9L33.6,8.8 M33.1,7.7l0.3,52.1h52L33.1,7.7z"/>
+		</g>
+		<g>
+			<polygon class="st1" points="34.1,7.1 85.4,6.9 85.8,58.3 			"/>
+			<path class="st2" d="M85.2,7.2l0.4,50.6L34.7,7.3L85.2,7.2 M85.6,6.7l-52,0.1l52.4,52L85.6,6.7L85.6,6.7z"/>
+		</g>
+		<g>
+			<polygon class="st1" points="7.3,60.8 56.9,60.8 32.1,85.9 			"/>
+			<path class="st2" d="M7.8,61h48.6L32.2,85.6L7.8,61 M6.8,60.5l25.4,25.7l25.3-25.7L6.8,60.5z"/>
+		</g>
+		<g>
+			<polygon class="st1" points="6.3,86.5 6.5,61.2 31.6,86.8 			"/>
+			<path class="st2" d="M6.7,61.7l24.4,24.9L6.5,86.3L6.7,61.7 M6.3,60.6L6.1,86.7l26,0.3L6.3,60.6L6.3,60.6z"/>
+		</g>
+		<g>
+			<polygon class="st1" points="31.4,7.8 31.5,33 6.1,33.2 			"/>
+			<path class="st2" d="M31.2,8.3l0.1,24.5L6.7,33L31.2,8.3 M31.6,7.2l-26,26.2l26.1-0.2C31.7,33.3,31.6,7.2,31.6,7.2z"/>
+		</g>
+		<g>
+			<polygon class="st1" points="6.1,34.2 31.8,34 31.9,58.9 6.3,59 			"/>
+			<path class="st2" d="M31.6,34.2l0.1,24.4L6.5,58.7L6.3,34.4L31.6,34.2 M32.1,33.8L5.9,34l0.2,25.2l26-0.1L32.1,33.8L32.1,33.8z"
+				/>
+		</g>
+		<g>
+			<polygon class="st1" points="33.8,85.9 58.9,60.7 84.8,61.1 58.7,86.1 			"/>
+			<path class="st2" d="M59,60.9l25.3,0.4L58.6,85.8l-24.4-0.2L59,60.9 M58.8,60.4L33.3,86.1l25.6,0.2l26.5-25.4L58.8,60.4
+				L58.8,60.4z"/>
+		</g>
+	</g>
+</g>
+</svg>

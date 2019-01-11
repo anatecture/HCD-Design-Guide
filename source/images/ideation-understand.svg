@@ -1,1 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103.47 167.57"><defs><style>.cls-1{isolation:isolate;}.cls-2{mix-blend-mode:multiply;}.cls-3{fill:#c8e3ed;}.cls-4{fill:#1b8ece;}.cls-5{fill:#c8e2ec;}.cls-6{fill:#178ece;}</style></defs><title>ideation-understand</title><g class="cls-1"><g id="Layer_1" data-name="Layer 1"><g class="cls-2"><polygon class="cls-3" points="3.18 37.4 35.9 4.08 100.17 66.92 6.3 164.84 3.18 37.4"/><path class="cls-4" d="M35.91,4.79,99.47,66.93l-92.7,96.7L3.68,37.6,35.91,4.79m0-1.42-.7.72L3,36.9l-.3.3v.43l3.09,126,.06,2.41,1.66-1.74,92.7-96.69.68-.72-.7-.69L36.61,4.07l-.72-.7Z"/></g><g class="cls-2"><polygon class="cls-5" points="37.42 70.02 96.41 69.31 37.82 128.92 37.42 70.02"/><path class="cls-6" d="M95.81,69.57,38.06,128.31l-.39-58,58.14-.7M97,69.06l-59.85.72.4,59.75L97,69.06Z"/><polygon class="cls-5" points="35.77 9.89 95.28 68.58 36.39 68.89 35.77 9.89"/><path class="cls-6" d="M36,10.49,94.68,68.33l-58,.31L36,10.49m-.52-1.2.63,59.85,59.75-.32L35.51,9.29Z"/><polygon class="cls-5" points="6.57 102.84 36.67 129.96 9.13 159.76 6.57 102.84"/><path class="cls-6" d="M6.84,103.42,36.32,130l-27,29.18L6.84,103.42m-.55-1.17L8.9,160.37,37,129.94,6.29,102.25Z"/><polygon class="cls-5" points="6.09 69.83 35.12 69.48 35.62 98.55 6.09 69.83"/><path class="cls-6" d="M34.87,69.73l.49,28.21L6.7,70.07l28.17-.34m.49-.51-29.87.37L35.88,99.15l-.52-29.93Z"/><polygon class="cls-5" points="35.04 9.68 35.17 38.7 6.1 38.99 35.04 9.68"/><path class="cls-6" d="M34.79,10.29l.13,28.16-28.21.28L34.79,10.29m.5-1.22L5.5,39.25,35.43,39,35.29,9.07Z"/><polygon class="cls-5" points="5.75 68.28 5.59 39.88 35.17 39.72 35.16 68.3 5.75 68.28"/><path class="cls-6" d="M34.92,40V68H6L5.84,40.13,34.92,40m.5-.5-30.08.16.16,28.9H35.41V39.47Z"/><polygon class="cls-5" points="6.61 101.33 5.77 71.66 35.76 100.31 36.76 128.95 6.61 101.33"/><path class="cls-6" d="M6,72.26l29.47,28.16,1,27.94L6.85,101.22,6,72.26m-.53-1.2.85,30.38L37,129.54,36,100.2,5.51,71.06Z"/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 103.5 167.6" style="enable-background:new 0 0 103.5 167.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C8E3ED;}
+	.st1{fill:#1B8ECE;}
+	.st2{fill:#C8E2EC;}
+	.st3{fill:#178ECE;}
+</style>
+<title>ideation-understand</title>
+<g>
+	<g id="Layer_1_1_">
+		<g>
+			<polygon class="st0" points="4.2,37.4 36.9,4.1 101.2,66.9 7.3,164.8 			"/>
+			<path class="st1" d="M36.9,4.8l63.6,62.1L7.8,163.6l-3.1-126L36.9,4.8 M36.9,3.4l-0.7,0.7L4,36.9l-0.3,0.3v0.4l3.1,126l0.1,2.4
+				l1.7-1.7l92.7-96.7l0.7-0.7l-0.7-0.7L37.6,4.1L36.9,3.4L36.9,3.4z"/>
+		</g>
+		<g>
+			<polygon class="st2" points="38.4,70 97.4,69.3 38.8,128.9 			"/>
+			<path class="st3" d="M96.8,69.6l-57.7,58.7l-0.4-58L96.8,69.6 M98,69.1l-59.8,0.7l0.4,59.8L98,69.1z"/>
+			<polygon class="st2" points="36.8,9.9 96.3,68.6 37.4,68.9 			"/>
+			<path class="st3" d="M37,10.5l58.7,57.8l-58,0.3L37,10.5 M36.5,9.3l0.6,59.8l59.8-0.3L36.5,9.3L36.5,9.3z"/>
+			<polygon class="st2" points="7.6,102.8 37.7,130 10.1,159.8 			"/>
+			<path class="st3" d="M7.8,103.4L37.3,130l-27,29.2L7.8,103.4 M7.3,102.2l2.6,58.1L38,129.9L7.3,102.2z"/>
+			<polygon class="st2" points="7.1,69.8 36.1,69.5 36.6,98.6 			"/>
+			<path class="st3" d="M35.9,69.7l0.5,28.2L7.7,70.1L35.9,69.7 M36.4,69.2L6.5,69.6l30.4,29.6L36.4,69.2z"/>
+			<polygon class="st2" points="36,9.7 36.2,38.7 7.1,39 			"/>
+			<path class="st3" d="M35.8,10.3l0.1,28.2L7.7,38.7L35.8,10.3 M36.3,9.1L6.5,39.2L36.4,39L36.3,9.1z"/>
+			<polygon class="st2" points="6.8,68.3 6.6,39.9 36.2,39.7 36.2,68.3 			"/>
+			<path class="st3" d="M35.9,40v28H7L6.8,40.1L35.9,40 M36.4,39.5L6.3,39.7l0.2,28.9h29.9L36.4,39.5L36.4,39.5z"/>
+			<polygon class="st2" points="7.6,101.3 6.8,71.7 36.8,100.3 37.8,128.9 			"/>
+			<path class="st3" d="M7,72.3l29.5,28.2l1,27.9L7.8,101.2L7,72.3 M6.5,71.1l0.8,30.4L38,129.5l-1-29.3L6.5,71.1L6.5,71.1z"/>
+		</g>
+	</g>
+</g>
+</svg>
