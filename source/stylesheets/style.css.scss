@@ -1,18 +1,22 @@
+
+
 h2 {
   color: #0071bc;
 }
 
 h3 {
   color: #0071bc;
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+  font-family: "public-sans", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
 }
 
 h4 {
   color: #0071bc;
 }
 
+
+
 .guide-section__title {
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
+  font-family: "public-sans", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
   color: #212121;
 }
 
@@ -111,6 +115,13 @@ h4 {
 .noprint {
     display: none;
   }
+}
+
+/////////////////////image styles//////////////////////////////////
+
+.section-image {
+  grid-column: 3;
+  grid-row: 3;
 }
 
 ///////////////////image and text interaction styles////////////////

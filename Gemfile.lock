@@ -124,6 +124,8 @@ PLATFORMS
   x86-mswin32
 
 DEPENDENCIES
+  em-websocket (~> 0.5.1)
+  eventmachine (~> 1.2, >= 1.2.7)
   middleman (~> 4.2)
   middleman-autoprefixer (~> 2.7)
   middleman-livereload (~> 3.4.3)
