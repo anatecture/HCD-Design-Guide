@@ -133,6 +133,20 @@ h4 {
   align-self: center;
 }
 
+.square_right {
+  display: inline;
+  width: 40%;
+  float: right;
+  padding-left: 2.5%;
+}
+
+.square_left {
+  display: inline;
+  width: 40%;
+  float: left;
+  padding-right: 2.5%;
+}
+
 .bubbles_right {
   display: inline;
   width: 30%;
