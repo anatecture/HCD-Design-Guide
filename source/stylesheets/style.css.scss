@@ -133,18 +133,27 @@ h4 {
   align-self: center;
 }
 
+.square_center {
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+
 .square_right {
   display: inline;
   width: 50%;
   float: right;
-  padding-left: 2.5%;
+  padding-left: 1.5%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
 }
 
 .square_left {
   display: inline;
   width: 50%;
   float: left;
-  padding-right: 2.5%;
+  padding-right: 1.5%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
 }
 
 .bubbles_right {
