@@ -145,18 +145,37 @@ h4 {
 
 .square_right {
   display: inline;
-  width: 50%;
+  width: 45%;
   float: right;
   padding-left: 1.5%;
   padding-top: 1.5%;
   padding-bottom: 1.5%;
 }
 
+
 .square_left {
   display: inline;
-  width: 50%;
+  width: 45%;
   float: left;
   padding-right: 1.5%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+
+.couple_right {
+  display: inline;
+  width: 45%;
+  float: left;
+  padding-left: 1.5%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+
+.couple_left {
+  display: inline;
+  width: 45%;
+  float: left;
+  padding-left: 1.5%;
   padding-top: 1.5%;
   padding-bottom: 1.5%;
 }
