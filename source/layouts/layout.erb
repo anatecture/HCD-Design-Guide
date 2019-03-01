@@ -78,11 +78,12 @@
           <div class="grid-col-auto mobile-lg:grid-col-12 desktop:grid-col-auto"></div>
           <ul class="usa-nav-secondary-links padding-bottom-2">
             <li class="usa-nav-secondary-item padding-bottom-2">
-              <a href="https://github.com/labopm/HCD-Guides">Read more Lab Design Guide</a>
+              <a href="https://github.com/labopm/HCD-Guides">Read more Lab Design Guides</a>
             </li>
             <li class="usa-nav-secondary-item padding-bottom-2">
               <a href="javascript:window.print()">
                 <span class="circle">
+                  <img src= "/images/print.svg" class= "print-button">
                   <span style="font-size: 1em; color: #212121;">
                     <i class="fas fa-print"></i>
                   </span>
@@ -135,6 +136,25 @@
 
                   </ul>
 
+                  <li class="usa-sidenav-item">
+                    <a href="productsservices.html" <%= is_page_selected("/productsservices.html") %>>Designed Things</a>
+
+                  <ul class="usa-sidenav-sublist">
+                      <li class="usa-sidenav-item">
+                        <a href="products.html" <%= is_page_selected("/products.html")%>>Products</a>
+                      </li>
+
+                      <li class="usa-sidenav-item">
+                        <a href="services.html" <%= is_page_selected("/services.html")%>>Services</a>
+                      </li>
+                    </li>
+
+                    <li class="usa-sidenav-item">
+                      <a href="systems.html" <%= is_page_selected("/systems.html")%>>Systems</a>
+                    </li>
+                  </li>
+                  </ul>
+
                 <li >
                   <a href="communicatingideas.html" <%= is_page_selected("/communicatingideas.html") %>>Communicating Ideas Through Design</a>
                   <ul class="usa-sidenav-sublist">
@@ -153,9 +173,7 @@
                   </ul>
                 </li>
 
-                <li class="usa-sidenav-item">
-                  <a href="productsservices.html" <%= is_page_selected("/productsservices.html") %>>Products & Services</a>
-                </li>
+
                 <li class="usa-sidenav-item">
                   <a href="designimplementation.html" <%= is_page_selected("/designimplementation.html") %>>Design & Implementation</a>
                 </li>
