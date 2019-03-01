@@ -151,9 +151,13 @@ h4 {
   padding-bottom: 1.5%;
 }
 
+.block {
+  width: 100%;
+}
+
 .square_right {
   display: inline;
-  width: 45%;
+  width: 50%;
   float: right;
   padding-left: 1.5%;
   padding-top: 1.5%;
@@ -163,7 +167,7 @@ h4 {
 
 .square_left {
   display: inline;
-  width: 45%;
+  width: 50%;
   float: left;
   padding-right: 1.5%;
   padding-top: 1.5%;
