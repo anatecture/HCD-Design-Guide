@@ -7,7 +7,7 @@ h2 {
 h3 {
   color: #0071bc;
   font-family: "public-sans", "Helvetica Neue", Helvetica, "Roboto", sans-serif;
-  
+
 }
 
 h4 {
@@ -135,6 +135,7 @@ h4 {
 .section-image {
   grid-column: 3;
   grid-row: 3;
+  padding: .5rem;
 }
 
 ///////////////////image and text interaction styles////////////////
