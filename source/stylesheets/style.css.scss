@@ -142,7 +142,7 @@ h4 {
 ///////////////////image and text interaction styles////////////////
 
 .space {
-  height: 2em;
+  padding: 2em;
 }
 
 .center_text {
@@ -200,7 +200,8 @@ h4 {
   width: 30%;
   float: right;
   padding-left: 2.5%;
-  shape-outside: circle();
+  margin: .5em;
+  min-width: 225px;
 }
 
 .bubbles_left {
@@ -208,7 +209,7 @@ h4 {
   width: 30%;
   float: left;
   padding-right: 2.5%;
-  shape-outside: circle();
+  margin: .5em;
 }
 
 .right_text {
