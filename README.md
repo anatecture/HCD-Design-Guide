@@ -12,3 +12,4 @@ Please place all links that will be in the indesign in the drawings and photos i
 Please submit new content via Pull Request. Do not push to Master. 
 
 If you have an idea for new content, please create an issue. When an issue is resolved, please close the issue. 
+# Design-Ops-Guide
